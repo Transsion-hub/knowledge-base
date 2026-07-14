@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/knowledge-base/',
   title: '传音控股知识库',
   description: '行业动态 · 公司动态 · 基本面分析 · 会议纪要',
   
