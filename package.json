@@ -1,0 +1,16 @@
+{
+  "name": "transsion-knowledge-base",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.3.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.39"
+  }
+}
